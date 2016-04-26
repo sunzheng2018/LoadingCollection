@@ -1,0 +1,2 @@
+# LoadingCollection
+collect loading animation
