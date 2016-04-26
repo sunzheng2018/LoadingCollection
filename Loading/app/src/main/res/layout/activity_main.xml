@@ -23,5 +23,11 @@
         android:layout_height="50dp"
         android:text="弹力球加载"/>
 
+    <Button
+        android:id="@+id/btn_third"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="吃豆人"/>
+
 
 </LinearLayout>
